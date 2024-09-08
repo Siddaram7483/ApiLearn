@@ -1,0 +1,1 @@
+// what peoples usually do here is for every routers with all create,delete,patch, update,get,post,get for all these they will create this seperate type of file for all of these routers  and then they put all their file code om this
